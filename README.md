@@ -14,20 +14,20 @@ Los siguientes ejercicios proporcionados por Alura Latam buscan fortalecer la ba
 
 ## Día 03 - Estructuras de control de flujo
 **Mi solución** [Day 03](https://github.com/SebaDiezV/7DaysOfCode_AluraLatam/tree/main/Day_03)\
-**Solución propuesta**[Day 03](http://github.com/ericolivalura/desafio-js-dia03/blob/main/desafio-03?utm_campaign=al_7_days_logica_javascript_-_dia_4&utm_medium=email&utm_source=RD+Station)
+**Solución propuesta** [Day 03](http://github.com/ericolivalura/desafio-js-dia03/blob/main/desafio-03?utm_campaign=al_7_days_logica_javascript_-_dia_4&utm_medium=email&utm_source=RD+Station)
 
 ## Día 04 - Loops y randomización
 **Mi solución** [Day 04](https://github.com/SebaDiezV/7DaysOfCode_AluraLatam/tree/main/Day_04)\
-**Solución propuesta**[Day 04](https://github.com/ericolivalura/desafio-js-dia04/blob/main/numero%20aleatorio?utm_campaign=al_7_days_logica_javascript_-_dia_5&utm_medium=email&utm_source=RD+Station)
+**Solución propuesta** [Day 04](https://github.com/ericolivalura/desafio-js-dia04/blob/main/numero%20aleatorio?utm_campaign=al_7_days_logica_javascript_-_dia_5&utm_medium=email&utm_source=RD+Station)
 
 ## Día 05 - Arrays y colecciones
 **Mi solución** [Day 05](https://github.com/SebaDiezV/7DaysOfCode_AluraLatam/tree/main/Day_05)\
-**Solución propuesta**[Day 05](https://github.com/ericolivalura/desafio-js-dia05/blob/main/desaf%C3%ADo?utm_campaign=al_7_days_logica_javascript_-_dia_6&utm_medium=email&utm_source=RD+Station)
+**Solución propuesta** [Day 05](https://github.com/ericolivalura/desafio-js-dia05/blob/main/desaf%C3%ADo?utm_campaign=al_7_days_logica_javascript_-_dia_6&utm_medium=email&utm_source=RD+Station)
 
 ## Día 06 - Remoción de arrays
 **Mi solución** [Day 06](https://github.com/SebaDiezV/7DaysOfCode_AluraLatam/tree/main/Day_06)\
-**Solución propuesta**[Day 06](https://github.com/ericolivalura/desafio-js-dia06/blob/main/desaf%C3%ADo?utm_campaign=al_7_days_logica_javascript_-_dia_7&utm_medium=email&utm_source=RD+Station)
+**Solución propuesta** [Day 06](https://github.com/ericolivalura/desafio-js-dia06/blob/main/desaf%C3%ADo?utm_campaign=al_7_days_logica_javascript_-_dia_7&utm_medium=email&utm_source=RD+Station)
 
 ## Día 07 - Funciones en JavaScript
 **Mi solución** [Day 07](https://github.com/SebaDiezV/7DaysOfCode_AluraLatam/tree/main/Day_07)\
-**Solución propuesta**[Day 07](https://github.com/ericolivalura/desafio-js-dia07/blob/main/desafio?utm_campaign=al_7_days_logica_javascript_-_despedida&utm_medium=email&utm_source=RD+Station)
+**Solución propuesta** [Day 07](https://github.com/ericolivalura/desafio-js-dia07/blob/main/desafio?utm_campaign=al_7_days_logica_javascript_-_despedida&utm_medium=email&utm_source=RD+Station)
