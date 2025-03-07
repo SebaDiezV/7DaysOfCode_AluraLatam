@@ -1,5 +1,5 @@
 # #7DaysOfCode AluraLatam :computer:
-## Ejercicios para practica de programación en JavaScript
+## Ejercicios para práctica de programación en JavaScript
 ![unnamed (2)](https://github.com/user-attachments/assets/38e1963e-684e-45e8-b94a-b059cca621db)
 
 Los siguientes ejercicios proporcionados por Alura Latam buscan fortalecer la base técnica, prepararte para resolver problemas complejos y aumentar tu confianza al resolver desafíos prácticos.
