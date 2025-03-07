@@ -11,7 +11,7 @@ function saludoInicial(){
     return
   }
   
-  let pregunta1 = parseInt(prompt(`¿Te gusta estudia ${lenguaje}? Responde con número 1 para SÍ o 2 para NO: `));
+  let pregunta1 = parseInt(prompt(`¿Te gusta estudiar ${lenguaje}? Responde con número 1 para SÍ o 2 para NO: `));
   
   if (pregunta1 == 1){
     alert('¡Muy bien! Sigue estudiando y tendrás mucho éxito.');
